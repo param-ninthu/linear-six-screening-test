@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "true-solstice-389406",
+  "private_key_id": "fe77994e44b9bf3ba4de3184aad96525842cd692",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXnRIFQgfzQOsp\nveVw2eOqOxnejKTaSaHpwAZOg03XW/60x0UXZambNqo+Xsdkm1cJjhiB6qAvnyyQ\nED3YBzP+S2Mox9gB0fHtZ3UWvRCYuVRhSa0tL5inqXGLoSqCHPsby5OBkJn4s216\nT+SAshEzIOE/ZH9cX7JQvgXQv5h0jRgTGBod3/2nNQzTQYEhXQnYwPjAd2p29Rqh\nGBaBKoIH3+1VXxhcyM3Sm/Uwjc55fyaolwnPSdVq8J/Zm/8cxzaVK/hkqNII705E\nEzJ1X499dMZSFSRgB0L1h8EjlNpYmYCACfKTkci/koFr2e4+7jcmiGaFEOD5mECF\nJCSvYL1pAgMBAAECggEAJmrkGpX5Sr/b9vdJ8Ncdc9DHBNgRm8iFsSP51SI7csM6\nXteRn9Sgbhaje+trTgh4vRCXEDCCR57nXVfoO9nTaG/03+wHxapLydLp3gmpb3Gi\nuoY/ThBd97odbfq4OUEbthbXOUEJavYYWyJsbdnxNsnxma0fAqqzFfeYpKUv/fQw\nvXINHuravzJAxNnbhOSEOrlewJ89kj1+EgZIfgN1qqbn2BRLBseyusrQAToMPRZL\nsvarc+xzQyw3SIa9+Y1vjEZPVypAD3e+9qz7yxE3ApPubxxW2S4iQ/DDs5aDic6g\n8nDygGNALrQEguxfupmmUHPzvltvU16mlhDzRZfEAwKBgQDOlX0T7rp5YyiCNAWG\n4rpxMIQfmysAOXHUEFe098zWyhAd6BHd8ZkYdM5GoIRbo6Lk9itwNUkqmgLc5wQx\nc9ONqOmt34ujJCIR6Z8cO7QFdRtAu/oBEwrBivZo236wCwKeoR1SXU69Y7WqPdmr\nEZds3jnq1h1LbLpxnABgQdPShwKBgQC74WD9rNqWG9BrxhB5/335fKQEkGIn4kgw\nvJKekAS7thtO9/Sj+eqZlmqxg55pGSwa9BPc9XUbQ4GDdFyNpFYQaaEAyYzlnLKu\n8Gb94B7U5uQT12EeLLq4V1IjdFV5skoftaiDPaRgsWC9wpwS4Vl1WSzGFwkETphk\naoHd7rW8jwKBgAa1M+qBxexLG/WeWs+WbRdfy+p6z1qigt+v6CkoIq6WwQ83idz7\nC02P/WKts56GIbPtiluKX2XSumUR20D/0c63vV6384DIm5KZU2FHTwEeXFQtxmBi\njeba7EVbWzG8Kcmc0abrALOFmVB90aOMXq5aSOcnLKxWS3eE6T425PnhAoGBALu5\nv5rYuvQfyInXNqFfmrTNSGlTBvCJFc60rN+IUWJp3DF0adnqHfHmrKbAN2kWAM7R\nsIMoMyHRurfpbY0Ndf0iPgA2YvUONC+9/3qOFOBv79avbteio9MLVQQd+kYF0jCK\n51xzHCqNMXeJ2z62Mhehya4IWDcYfQZgsXBaUvabAoGAEcqRoJkgMt8WWl1ZWEY3\n4kRe7UC6+DoZvLzx3MyqBxJXatpqWUn4uXepxR3cjpojg6EXjgZARGRiSozSUtyW\nCaV9Qv7c0Idz4tgilEVNoOA8cTxQI7W7mbRe/P4N67kh/dsRSe7JvCszK+u3BAEo\n/qltSXeHXsmp/ZW5CcQ9aTw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "chosen-linear@true-solstice-389406.iam.gserviceaccount.com",
+  "client_id": "104216254416054975963",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/chosen-linear%40true-solstice-389406.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
